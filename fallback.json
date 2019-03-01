@@ -1,0 +1,10 @@
+{
+    "articles": [
+        {
+            "title": "Network Error",
+            "url": "",
+            "urlToImage": "images/message.png",
+            "description": "Try Loading the apage again when you are online."
+        }
+    ]
+}
